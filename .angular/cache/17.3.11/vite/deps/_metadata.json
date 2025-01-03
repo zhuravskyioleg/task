@@ -1,0 +1,127 @@
+{
+  "hash": "42857610",
+  "configHash": "9502794a",
+  "lockfileHash": "c8d3655d",
+  "browserHash": "f531229d",
+  "optimized": {
+    "@angular/common": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "77722f01",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "8ab7ba8d",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "c3ecb3a6",
+      "needsInterop": false
+    },
+    "@angular/material/button": {
+      "src": "../../../../../node_modules/@angular/material/fesm2022/button.mjs",
+      "file": "@angular_material_button.js",
+      "fileHash": "5bfda5b2",
+      "needsInterop": false
+    },
+    "@angular/material/divider": {
+      "src": "../../../../../node_modules/@angular/material/fesm2022/divider.mjs",
+      "file": "@angular_material_divider.js",
+      "fileHash": "8e89b46f",
+      "needsInterop": false
+    },
+    "@angular/material/form-field": {
+      "src": "../../../../../node_modules/@angular/material/fesm2022/form-field.mjs",
+      "file": "@angular_material_form-field.js",
+      "fileHash": "09a6e556",
+      "needsInterop": false
+    },
+    "@angular/material/icon": {
+      "src": "../../../../../node_modules/@angular/material/fesm2022/icon.mjs",
+      "file": "@angular_material_icon.js",
+      "fileHash": "97ad394d",
+      "needsInterop": false
+    },
+    "@angular/material/input": {
+      "src": "../../../../../node_modules/@angular/material/fesm2022/input.mjs",
+      "file": "@angular_material_input.js",
+      "fileHash": "6bd108b4",
+      "needsInterop": false
+    },
+    "@angular/material/select": {
+      "src": "../../../../../node_modules/@angular/material/fesm2022/select.mjs",
+      "file": "@angular_material_select.js",
+      "fileHash": "24feb921",
+      "needsInterop": false
+    },
+    "@angular/material/snack-bar": {
+      "src": "../../../../../node_modules/@angular/material/fesm2022/snack-bar.mjs",
+      "file": "@angular_material_snack-bar.js",
+      "fileHash": "205b7b22",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "ae2074f7",
+      "needsInterop": false
+    },
+    "@angular/platform-browser/animations/async": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/animations/async.mjs",
+      "file": "@angular_platform-browser_animations_async.js",
+      "fileHash": "e5c325f2",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "98f4f0ba",
+      "needsInterop": false
+    },
+    "rxjs": {
+      "src": "../../../../../node_modules/rxjs/dist/esm5/index.js",
+      "file": "rxjs.js",
+      "fileHash": "c10e56df",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "browser-J6DO72FG": {
+      "file": "browser-J6DO72FG.js"
+    },
+    "chunk-RRFSV37M": {
+      "file": "chunk-RRFSV37M.js"
+    },
+    "chunk-WRKNAZQI": {
+      "file": "chunk-WRKNAZQI.js"
+    },
+    "chunk-X3G5HIHB": {
+      "file": "chunk-X3G5HIHB.js"
+    },
+    "chunk-26SHDKSQ": {
+      "file": "chunk-26SHDKSQ.js"
+    },
+    "chunk-QJ3NM4TZ": {
+      "file": "chunk-QJ3NM4TZ.js"
+    },
+    "chunk-L2IVIUTT": {
+      "file": "chunk-L2IVIUTT.js"
+    },
+    "chunk-F7CID73I": {
+      "file": "chunk-F7CID73I.js"
+    },
+    "chunk-XLSINCXO": {
+      "file": "chunk-XLSINCXO.js"
+    },
+    "chunk-YFXVGDDX": {
+      "file": "chunk-YFXVGDDX.js"
+    },
+    "chunk-W7WAD56I": {
+      "file": "chunk-W7WAD56I.js"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+:host {
+  display: flex;
+}
+
+.block {
+  flex: 1;
+}
+
+/*# sourceMappingURL=trello-list.component.css.map */

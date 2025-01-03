@@ -1,0 +1,19 @@
+:host {
+  display: block;
+  background-color: #191C1C;
+  height: 100vh;
+  width: 100vw;
+}
+
+.header {
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+  display: flex;
+  align-items: center;
+}
+
+.auth-action > *:not(:last-child) {
+  margin-right: 10px;
+}
+
+/*# sourceMappingURL=app.component.css.map */
